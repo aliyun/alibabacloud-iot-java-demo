@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.aliyun.alink.linksdk</groupId>
             <artifactId>iot-linkkit-java</artifactId>
-            <version>1.6.2</version>
+            <version>1.2.1</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
