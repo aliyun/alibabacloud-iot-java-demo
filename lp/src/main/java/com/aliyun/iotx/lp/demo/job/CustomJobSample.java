@@ -40,6 +40,7 @@ public class CustomJobSample {
 
     /**
      * 产品productKey，待补充
+     *
      */
     private static String productKey = "";
     /**
